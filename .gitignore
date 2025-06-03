@@ -1,0 +1,23 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Overleaf export files
+*.pdf
+*.zip
+
+# BibTeX cleanup
+*.bak
+
+# PowerShell error logs
+*.log
+*.error.log
